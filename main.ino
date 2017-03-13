@@ -1,7 +1,7 @@
 /*
  * JsonDatalogger
  *
- * Created: 13/3/2017 
+ * Created: 8/2/2016
  * Author: HyDz
  * Humidity, temperature and time datalogger stored in µSD as JSON format. Also Display Date Time Température and Humidity on a SSD1306 based screen
  */ 
